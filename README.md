@@ -1,8 +1,8 @@
-# ui-integration-demo
+# PBC Wallet integration Demo. 
 
 Demo for how to integrate PBC wallet into a web frontend or dApp.
 
-## Requirements
+## Requirements:
 
 To be able to run the demo the following setup is required.
 
